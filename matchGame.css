@@ -1,0 +1,10 @@
+#grid {
+    height: 300px;
+    width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+}
+body {
+    background-color: rgb(241, 231, 217);
+    padding-left: 100px;
+}
